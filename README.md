@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @joenate
-- 👀 I’m interested in design, frontend (new to coding), and anything related to building
+- 👋 Hi, I’m Jonathan.
+- 👀 I’m interested in building things, and new to code
 - 🌱 I’m currently learning JS
 - You can reach me on Twitter or shoot me an email at jonathan.pierre@yale.edu
 
