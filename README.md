@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jonathan.
-- 👀 I’m interested in building things, and new to code
-- 🌱 I’m currently learning React
+- 👀 I’m interested in designing/building things, and relatively new to code
 - You can reach me on Twitter or shoot me an email at jonathan.pierre@yale.edu
 
 <!---
